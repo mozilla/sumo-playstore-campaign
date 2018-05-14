@@ -64,7 +64,7 @@ class GooleMapsMap {
           window.location.hash = coutryId;
         });
       }
-      
+
       this.markers.push(marker);
 
       if (this.hasEventDetail) {
@@ -79,7 +79,7 @@ class GooleMapsMap {
         });
       }
     });
-    
+
     // Add a marker clusterer to manage the markers.
     const markerCluster = new MarkerClusterer(googleMapsMap, this.markers,
       {imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
