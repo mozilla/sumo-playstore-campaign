@@ -1,0 +1,30 @@
+title: <REPLACEME> Sprint
+subtitle:
+email: <REPLACEME>
+twitter: https://twitter.com/mozilla
+baseurl: "" # <REPLACEME> the subpath of your site, e.g. /blog, for GitHub pages this is /REPONAME
+url: "https://mozilla.github.io/" # the base hostname & protocol for your site
+github:
+  repo: "mozilla/<REPLACEME>"
+  branch: "master"
+
+
+collections:
+  articles:
+    output: true
+    permalink: /:path/
+
+# Build settings
+markdown: kramdown
+
+redcarpet:
+  extensions: [
+    'no_intra_emphasis',
+    'fenced_code_blocks',
+    'autolink',
+    'strikethrough',
+    'superscript',
+    'with_toc_data',
+    'tables',
+    'hardwrap'
+  ]
