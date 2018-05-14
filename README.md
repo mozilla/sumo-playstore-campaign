@@ -1,6 +1,6 @@
-# Fantastic Firefox Support Campaign Sprint
+# Firefox Support Sprint
 
-This is the landing page for the Fantastic Firefox Support Campaign.
+This is the landing page for the Firefox Support Campaign.
 
 ## Running it locally
 

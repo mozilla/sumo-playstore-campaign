@@ -24,20 +24,13 @@ title: Attend an Event
   <span class="title-frame-grey title-frame--rotate-180"></span>
 </h3>
 
-<p class="participate-theaser">You prefer to participate at the campaign from the comfort of your couch? That’s totally fine! Here is how:</p>
+<section class="flex-center">
+  <p>You prefer to participate at the campaign from the comfort of your couch? That’s totally fine! Here is how:</p>
 
-<section class="info-buttons">
-  <div class="nightly">
-    REPLACEME
-  </div>
-  <div class="alexa">
-    <p>
-      REPLACEME
-    </p>
-  </div>
-  <div class="report-attend">
-    REPLACEME
-  </div>
+  <ul>
+    <li>Watch this video (TO BE DONE) on how to use the Firefox for Android Support Tool</li>
+    <li>Click here (TO BE DONE) to start helping users around the globe</li>
+  </ul>
+
+  <p>Thanks!</p>
 </section>
-
-<p class="participate-theaser">Thanks!</p>

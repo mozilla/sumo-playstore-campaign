@@ -1,11 +1,11 @@
-title: <REPLACEME> Sprint
+title: Firefox Support Sprint
 subtitle:
-email: <REPLACEME>
+email: community-development@mozilla.com
 twitter: https://twitter.com/mozilla
-baseurl: "" # <REPLACEME> the subpath of your site, e.g. /blog, for GitHub pages this is /REPONAME
+baseurl: "/sumo-playstore-campaign" # the subpath of your site, e.g. /blog, for GitHub pages this is /REPONAME
 url: "https://mozilla.github.io/" # the base hostname & protocol for your site
 github:
-  repo: "mozilla/<REPLACEME>"
+  repo: "mozilla/sumo-playstore-campaign"
   branch: "master"
 
 

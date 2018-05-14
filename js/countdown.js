@@ -1,7 +1,7 @@
 (function() {
   'use strict';
 
-  var END_DATE = new Date('REPLACEME');
+  var END_DATE = new Date('2018-06-02');
   var ONE_SECOND = 1000;
   var ONE_MINUTE = ONE_SECOND * 60;
   var ONE_HOUR = ONE_MINUTE * 60;

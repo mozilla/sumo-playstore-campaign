@@ -3,9 +3,9 @@ let map;
 (function() {
   'use strict';
 
-  var API_KEY = 'REPLACEME';
+  var API_KEY = 'AIzaSyDziLuMxVaWGuE4BVh-gxvuY9y7evusUx0';
   var RANGE = 'A2:I';
-  var SPREADSHEET_ID = '11W6MYoIIJDTJz0LL_P9WzHqT-EXpv9Bih6dlFLdAnfA';
+  var SPREADSHEET_ID = 'REPLACEME';
   var publicEndpoint = 'https://sheets.googleapis.com/v4/spreadsheets/' + SPREADSHEET_ID +
     '/values/' + RANGE + '?key=' + API_KEY;
   const API_KEY_MAPS = 'AIzaSyCtHdTVnmaA1ZQ-1wdaKoVEBtlTT020yXQ';

@@ -222,7 +222,6 @@ h2 {
 
 footer {
   background:
-    url('../img/img-planet-closeup.svg') 150% 100% no-repeat,
     linear-gradient(to top, #535382, #2d2c55);
   padding: 30px 50px 0px 50px;
   display: flex;
@@ -312,49 +311,6 @@ footer .footer-content a {
   }
 }
 
-.home .spaceship {
-  width: 250px;
-  position: relative;
-  top: -230px;
-  left: 30px;
-}
-
-.home .spaceship-path {
-  width: 100px;
-  position: relative;
-  top: 15px;
-  left: -200px;
-}
-
-.home .flag {
-  width: 200px;
-  position: relative;
-  top: 175px;
-  left: 53%;
-}
-
-@media all and (max-width: 768px) {
-  .home .spaceship,
-  .home .spaceship-path,
-  .home .flag {
-    display: none;
-  }
-}
-
-@media all and (min-width: 1500px) {
-  /* TODO: fix positioning on big screens and remove this */
-  .home .flag {
-    display: none;
-  }
-}
-
-@media all and (max-width: 1200px) {
-  /* TODO: fix positioning on big screens and remove this */
-  .home .flag {
-    display: none;
-  }
-}
-
 .home header {
   background: #f3f3f3 url('../img/img-header.svg');
   background-size: cover;
@@ -399,6 +355,7 @@ footer .footer-content a {
 .home header .intro {
   padding-top: 200px;
   padding-bottom: 150px;
+  min-height: 400px;
 }
 
 .home .description-container {
@@ -530,73 +487,6 @@ footer .footer-content a {
 
 .map .map-canvas {
   flex: 2;
-}
-
-.info-buttons {
-  display: flex;
-  text-align: center;
-  font-family: 'Fira Sans';
-  padding: 56px 0;
-}
-
-.home .info-buttons {
-  background-image: linear-gradient(to bottom, #535382, #2d2c55);
-}
-
-.info-buttons p {
-  font-size: 14px;
-  letter-spacing: -0.3px;
-  margin-bottom: 0;
-}
-
-.home .info-buttons p {
-  color: #c2e8f9;
-}
-
-.info-buttons a:first-child:hover {
-  box-shadow: none;
-}
-
-.info-buttons .title {
-  font-size: 28px;
-  letter-spacing: -0.6px;
-  text-decoration: none;
-}
-
-.home .info-buttons .title {
-  color: #c2e8f9;
-}
-
-.info-buttons .report,
-.info-buttons .nightly,
-.info-buttons .alexa,
-.info-buttons .report-attend,
-.info-buttons .github {
-  flex: 1;
-}
-
-.info-buttons .nightly,
-.info-buttons .alexa,
-.info-buttons .report-attend {
-  padding: 0 36px;
-}
-
-.info-buttons .nightly img,
-.info-buttons .alexa img,
-.info-buttons .report-attend img,
-.info-buttons .report img,
-.info-buttons .github img {
-  height: 90px;
-}
-
-@media all and (max-width: 768px) {
-  .info-buttons {
-    flex-direction: column;
-  }
-
-  .info-buttons div {
-    margin-top: 50px;
-  }
 }
 
 .home .interested {
@@ -950,6 +840,8 @@ h3.content-title {
   padding-top: 20px;
 }
 
-.participate p.participate-theaser {
-  text-align: center;
+.flex-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
