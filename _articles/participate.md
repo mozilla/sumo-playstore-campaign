@@ -28,8 +28,8 @@ title: Attend an Event
   <p>You prefer to participate at the campaign from the comfort of your couch? That’s totally fine! Here is how:</p>
 
   <ul>
-    <li>Watch this video (TO BE DONE) on how to use the Firefox for Android Support Tool</li>
-    <li>Click here (TO BE DONE) to start helping users around the globe</li>
+    <li>Watch this video (REPLACEME) on how to use the Firefox for Android Support Tool</li>
+    <li>Click here (REPLACEME) to start helping users around the globe</li>
   </ul>
 
   <p>Thanks!</p>

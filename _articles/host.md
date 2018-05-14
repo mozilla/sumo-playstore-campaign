@@ -8,7 +8,7 @@ title: Become a Host
 ### Workflow
 
 * Introduction talk, why this work is important for Firefox in your region
-* Ask the attendees to watch this video (TO BE DONE) to understand how the tool works
+* Ask the attendees to watch this video (REPLACEME) to understand how the tool works
 * Participants go and log in to the Firefox for Android support tool and follow the instructions there.
 * Keep doing the awesome work and make Firefox better!
 
