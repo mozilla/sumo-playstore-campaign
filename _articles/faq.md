@@ -9,15 +9,15 @@ title: Frequently Asked Questions
 
 ### What is this campaign?
 
-REPLACEME
+We are testing a new tool to allow contributors to respond to Firefox Playstore reviews at scale in their language.
 
 ### When is the campaign?
 
-REPLACEME
+The campaign runs from the 2nd to 9th of June. 
 
 ### Can I run an event outside the campaign dates?
 
-REPLACEME
+Yes you can! However we encourage you to have your event in the campaign dates so you can coordinate with your fellow Mozillians.
 
 ### How can I participate?
 
@@ -25,6 +25,6 @@ You can either <a href="{{ '/host/' | prepend: site.baseurl }}">host</a> an even
 
 ### Can I do the activity solo?
 
-REPLACEME
+Of course you can! Just click on the website and follow the instructions.
 
 </div>
