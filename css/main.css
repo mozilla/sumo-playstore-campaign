@@ -291,7 +291,7 @@ footer .footer-content a {
 
 @media all and (max-width: 1150px) {
   footer {
-    background: linear-gradient(to top, #535382, #2d2c55);
+    background: #000f40;
     height: 100%;
   }
 }
