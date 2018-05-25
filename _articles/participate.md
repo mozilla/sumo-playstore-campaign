@@ -16,21 +16,20 @@ title: Attend an Event
   <p>2. Book your seat on the signup page if registration is suppoted by the chosen platform.</p>
   <p>3. If there is no event in your area, consider <a href="{{ '/host/' | prepend: site.baseurl }}">hosting</a> one yourself :)</p>
 
+  <h3 class="content-title">
+    <span class="title-frame"></span>
+    Do the action solo
+    <span class="title-frame title-frame--rotate-180"></span>
+  </h3>
+
+  <section class="flex-center">
+    <p>You prefer to participate at the campaign from the comfort of your couch? That’s totally fine! Here is how:</p>
+
+    <ul>
+    <li>Watch this <a href="https://www.youtube.com/watch?v=fJoC17w3lRY&feature=youtu.be">video</a> on how to use the Firefox for Android Support Tool</li>
+      <li>Click here (REPLACEME) to start helping users around the globe</li>
+    </ul>
+
+    <p>Thanks!</p>
+  </section>
 </div>
-
-<h3 class="content-title">
-  <span class="title-frame-grey"></span>
-  Do the action solo
-  <span class="title-frame-grey title-frame--rotate-180"></span>
-</h3>
-
-<section class="flex-center">
-  <p>You prefer to participate at the campaign from the comfort of your couch? That’s totally fine! Here is how:</p>
-
-  <ul>
-  <li>Watch this <a href="https://www.youtube.com/watch?v=fJoC17w3lRY&feature=youtu.be">video</a> on how to use the Firefox for Android Support Tool</li>
-    <li>Click here (REPLACEME) to start helping users around the globe</li>
-  </ul>
-
-  <p>Thanks!</p>
-</section>
