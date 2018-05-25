@@ -28,7 +28,7 @@ title: Attend an Event
   <p>You prefer to participate at the campaign from the comfort of your couch? That’s totally fine! Here is how:</p>
 
   <ul>
-    <li>Watch this video (REPLACEME) on how to use the Firefox for Android Support Tool</li>
+  <li>Watch this <a href="https://www.youtube.com/watch?v=fJoC17w3lRY&feature=youtu.be">video</a> on how to use the Firefox for Android Support Tool</li>
     <li>Click here (REPLACEME) to start helping users around the globe</li>
   </ul>
 
