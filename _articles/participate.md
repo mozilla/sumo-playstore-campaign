@@ -13,7 +13,7 @@ title: Attend an Event
 
   {% include map.html %}
 
-  <p>2. Book your seat on the signup page.</p>
+  <p>2. Book your seat on the signup page if registration is suppoted by the chosen platform.</p>
   <p>3. If there is no event in your area, consider <a href="{{ '/host/' | prepend: site.baseurl }}">hosting</a> one yourself :)</p>
 
 </div>
