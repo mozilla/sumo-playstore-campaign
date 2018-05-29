@@ -9,7 +9,7 @@ title: Become a Host
 
 * <a href="https://docs.google.com/presentation/d/1sAtzmP6T7jgCCRIcPRfnXEAAiFVXCns2l1Q_zv1IPDE/edit?usp=sharing"> Introduction talk</a>, why this work is important for Firefox in your region
 * Ask the attendees to watch this <a href="https://www.youtube.com/watch?v=fJoC17w3lRY&feature=youtu.be">video</a> to understand how the tool works
-* Participants go and log in to the Firefox for Android support tool and follow the instructions there.
+* Participants go and log in to the <a href="https://supportusers.mozilla.community">Firefox for Android support tool</a> and follow the instructions there.
 * Keep doing the awesome work and make Firefox better!
 
 ### Resources you can request
