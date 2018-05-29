@@ -27,7 +27,7 @@ title: Attend an Event
 
     <ul>
     <li>Watch this <a href="https://www.youtube.com/watch?v=fJoC17w3lRY&feature=youtu.be">video</a> on how to use the Firefox for Android Support Tool</li>
-      <li>Click here (REPLACEME) to start helping users around the globe</li>
+      <li>Click <a href="https://supportusers.mozilla.community">here</a> to start helping users around the globe</li>
     </ul>
 
     <p>Thanks!</p>
