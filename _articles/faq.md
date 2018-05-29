@@ -13,7 +13,7 @@ We are testing a new tool to allow contributors to respond to Firefox Playstore 
 
 ### When is the campaign?
 
-The campaign runs from the 2nd to 9th of June. 
+The campaign runs from the 2nd to 9th of June.
 
 ### Can I run an event outside the campaign dates?
 
@@ -25,11 +25,11 @@ You can either <a href="{{ '/host/' | prepend: site.baseurl }}">host</a> an even
 
 ### Can I do the activity solo?
 
-Of course you can! Just click on the Attend page and follow the instructions.
+Of course you can! Just go to the <a href="{{ '/participate/' | prepend: site.baseurl }}">Attend page</a> and follow the instructions.
 
 ### How does the tool work?
 
-This tool makes it possible for volunteers to respond to reviews on the Google Play Store. 
+This tool makes it possible for volunteers to respond to reviews on the Google Play Store.
 
 Using this tool, once your response is reviewed it will show up on the Google Play Store under the author “Mozilla” like in the image below, the user who wrote the review will be notified that they have been responded to.
 
@@ -47,6 +47,6 @@ Review Mechanism:
 
 <img src="https://discourse-paas-production-content.s3.amazonaws.com/optimized/3X/2/5/25d30401ba6d45feeec787ceeda3d7c31a07e91e_1_690x239.png">
 
-If we don't have enough people for a certain language to moderate reviews, at the end of the campaign, staff will moderate remaining reviews using volunteers and online translation. 
+If we don't have enough people for a certain language to moderate reviews, at the end of the campaign, staff will moderate remaining reviews using volunteers and online translation.
 
 </div>
