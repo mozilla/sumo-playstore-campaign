@@ -25,7 +25,7 @@ You can either <a href="{{ '/host/' | prepend: site.baseurl }}">host</a> an even
 
 ### Can I do the activity solo?
 
-Of course you can! Just click on the website and follow the instructions.
+Of course you can! Just click on the Attend page and follow the instructions.
 
 ### How does the tool work?
 
