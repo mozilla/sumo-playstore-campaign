@@ -14,7 +14,7 @@ title: Become a Host
 
 ### Resources you can request
 
-For this event you can request up to 30 USD. Please note that you can only apply for the budget after the event happens. To do so, fill out the request budget form and provide the link to your receipts. Budget requests without a link to receipts will not be considered.
+For this event you can request up to 30 USD. Please note that you can only apply for the budget after the event happens. To do so, fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSckdqfnixYhk5D9YLNEPOWSYbl4c6WfBiFpvWTKfRBhAaZ6XA/viewform?usp=sf_link">request budget form</a> and provide the link to your receipts. Budget requests without a link to receipts will not be considered.
 
 **Note:** We know that in some cases 30 USD might not be enough. In cases you’ve spent more do send us the receipts. We will evaluate them and reimburse you if the expenses are justified in your local.
 
