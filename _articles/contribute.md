@@ -9,6 +9,8 @@ title: Contribute
     <span class="title-frame title-frame--rotate-180"></span>
   </h3>
 
+  <p>Please note this tool is a prototype and so may still have a few bugs - file a bug or suggest an improvement on <a href="https://github.com/mozilla/sumo-playstore-campaign/issues">GitHub</a>. Please check the existing issues to see if your issue has already been reported before submitting a new one.</p>
+
   <section class="video-container">
     <iframe width="650" height="400" src="https://www.youtube.com/embed/fJoC17w3lRY?showinfo=0" frameborder="0" allowfullscreen></iframe>
   </section>
